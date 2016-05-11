@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="goias">Goiás</string>
+    <string name="atletico">Atlético-GO</string>
+    <string name="vila">Vila Nova</string>
+    <string name="crac">C.R.A.C</string>
+    <string name="gremio">Grêmio</string>
+</resources>

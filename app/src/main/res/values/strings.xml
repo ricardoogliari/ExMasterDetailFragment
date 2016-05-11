@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExMasterDetailFragment</string>
+    <string name="goias">Goiás Esporte Clube</string>
+    <string name="atletico">Atlético Goianiense</string>
+    <string name="vila">Vila Nova Futebol Clube</string>
+    <string name="crac">CRAC Cuble de Regatas Atlético de Catalão</string>
+    <string name="gremio">Grêmio Footbal Porto-Alegrense</string>
+</resources>
